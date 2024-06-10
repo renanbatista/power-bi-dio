@@ -15,9 +15,9 @@ Este projeto foi idealizado e guiado pela professora Juliana Mascarenhas no mód
 
 ## Imagens
 
-![P1](https://github.com/renanbatista/power-bi-dio/assets/105026221/b8211559-1d24-4adf-a02d-066bde79d27c)
+![1](https://github.com/renanbatista/power-bi-dio/assets/105026221/00f04766-d2b7-4bbd-a3b8-da218a8b3b34)
 
-![P2](https://github.com/renanbatista/power-bi-dio/assets/105026221/b3d5b6d9-d8f2-474b-baca-a15c53b1d888)
+![2](https://github.com/renanbatista/power-bi-dio/assets/105026221/4cbc2c9d-6638-4620-8a4a-90ec019c2d5f)
 
 ---
 
