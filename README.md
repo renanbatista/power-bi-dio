@@ -13,6 +13,12 @@ Neste projeto, foram desenvolvidas duas páginas de relatório baseadas nas liç
 
 Este projeto foi idealizado e guiado pela professora Juliana Mascarenhas no módulo "Criando um Relatório de Vendas Elegante com Power BI" da DIO.
 
+## Imagens
+
+![P1](https://github.com/renanbatista/power-bi-dio/assets/105026221/b8211559-1d24-4adf-a02d-066bde79d27c)
+
+![P2](https://github.com/renanbatista/power-bi-dio/assets/105026221/b3d5b6d9-d8f2-474b-baca-a15c53b1d888)
+
 ---
 
 Este README foi criado para fornecer uma visão geral do projeto e destacar os principais componentes e funcionalidades implementadas. Para mais detalhes, consulte o código e os arquivos do projeto no repositório.
